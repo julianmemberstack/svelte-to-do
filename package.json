@@ -20,7 +20,6 @@
 	"type": "module",
 	"dependencies": {
 		"canvas-confetti": "^1.9.3",
-		"chart.js": "^4.4.4",
 		"svelte-dnd-action": "^0.9.50"
 	}
 }
